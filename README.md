@@ -133,6 +133,3 @@ react-project/
 
 Made by **Meghma**.
 
-## 📄 License
-
-This project is for learning and personal use. Add a license of your choice (e.g. MIT) if you plan to share it publicly.
